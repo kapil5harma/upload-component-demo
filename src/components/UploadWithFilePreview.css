@@ -1,0 +1,15 @@
+#drop {
+  min-height: 150px;
+  width: 250px;
+  border: 1px solid blue;
+  margin: 10px;
+  padding: 10px;
+}
+
+#list {
+}
+
+#list img {
+  width: 100px;
+  height: 100px;
+}
